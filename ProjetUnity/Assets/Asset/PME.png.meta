@@ -1,0 +1,1571 @@
+fileFormatVersion: 2
+guid: 055fe74e26b3e014aa69b3476f0188c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8915364048297047224
+    second: PME_0
+  - first:
+      213: 895064697108907778
+    second: PME_1
+  - first:
+      213: -7010097191971226298
+    second: PME_2
+  - first:
+      213: 3844012471314840648
+    second: PME_3
+  - first:
+      213: -2360901058352871644
+    second: PME_4
+  - first:
+      213: 7893802911220682399
+    second: PME_5
+  - first:
+      213: -5932521757380112861
+    second: PME_6
+  - first:
+      213: -345077900327553872
+    second: PME_7
+  - first:
+      213: -1059348599923024995
+    second: PME_8
+  - first:
+      213: -7954492600990090927
+    second: PME_9
+  - first:
+      213: 832887623046458718
+    second: PME_10
+  - first:
+      213: 1514862576036604164
+    second: PME_11
+  - first:
+      213: 8588995835669285476
+    second: PME_12
+  - first:
+      213: -6647237571413630486
+    second: PME_13
+  - first:
+      213: 4483528934239127039
+    second: PME_14
+  - first:
+      213: -4422488636592932313
+    second: PME_15
+  - first:
+      213: -2113317743430885952
+    second: PME_16
+  - first:
+      213: -1391772146619371195
+    second: PME_17
+  - first:
+      213: 455839503921177757
+    second: PME_18
+  - first:
+      213: 5069939912099418766
+    second: PME_19
+  - first:
+      213: -6846984227295735381
+    second: PME_20
+  - first:
+      213: -8497855126167083508
+    second: PME_21
+  - first:
+      213: 3412193336668443524
+    second: PME_22
+  - first:
+      213: -3269574085727156128
+    second: PME_23
+  - first:
+      213: 1102194696875920891
+    second: PME_24
+  - first:
+      213: -7017766903264202232
+    second: PME_25
+  - first:
+      213: -3338339445339909297
+    second: PME_26
+  - first:
+      213: 7806094259711479840
+    second: PME_27
+  - first:
+      213: -5637734795090280616
+    second: PME_28
+  - first:
+      213: -120282104649581735
+    second: PME_29
+  - first:
+      213: 3120747815116883779
+    second: PME_30
+  - first:
+      213: -5219077328285445626
+    second: PME_31
+  - first:
+      213: -3655977027896984753
+    second: PME_32
+  - first:
+      213: -4756270295660227977
+    second: PME_33
+  - first:
+      213: -3883099752777038322
+    second: PME_34
+  - first:
+      213: 8584712245147845961
+    second: PME_35
+  - first:
+      213: 4551095949134014309
+    second: PME_36
+  - first:
+      213: 578742902776904075
+    second: PME_37
+  - first:
+      213: -4435593784425134484
+    second: PME_38
+  - first:
+      213: -1670132922644997304
+    second: PME_39
+  - first:
+      213: -8048730403288645759
+    second: PME_40
+  - first:
+      213: 4483485761642641431
+    second: PME_41
+  - first:
+      213: 161691398121405125
+    second: PME_42
+  - first:
+      213: -1188566886268349908
+    second: PME_43
+  - first:
+      213: 8946875333995231716
+    second: PME_44
+  - first:
+      213: -3846562929450039937
+    second: PME_45
+  - first:
+      213: 7088530794126916814
+    second: PME_46
+  - first:
+      213: -2727875329323812929
+    second: PME_47
+  - first:
+      213: -8135589160632172118
+    second: PME_48
+  - first:
+      213: 1171929776079099256
+    second: PME_49
+  - first:
+      213: 9014403435252492822
+    second: PME_50
+  - first:
+      213: -3229722343698279268
+    second: PME_51
+  - first:
+      213: 6825569053835563112
+    second: PME_52
+  - first:
+      213: -3150633566750580390
+    second: PME_53
+  - first:
+      213: -8735656693280304027
+    second: PME_54
+  - first:
+      213: -5750247144618794740
+    second: PME_55
+  - first:
+      213: 6805800134244150942
+    second: PME_56
+  - first:
+      213: -815877770780047399
+    second: PME_57
+  - first:
+      213: -1725634249711251851
+    second: PME_58
+  - first:
+      213: 4248286451810919581
+    second: PME_59
+  - first:
+      213: 975409204772263543
+    second: PME_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PME_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 438
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b47f932a3464480800000000000000
+      internalID: -8915364048297047224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 438
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074b2a8998eb6c00800000000000000
+      internalID: 895064697108907778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7797beb127be90800000000000000
+      internalID: -7010097191971226298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 438
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c74e8e9fca85530800000000000000
+      internalID: 3844012471314840648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 438
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427880bfef46c3fd0800000000000000
+      internalID: -2360901058352871644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 438
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ec042bceb6c8d60800000000000000
+      internalID: 7893802911220682399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 438
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e051db4e27bada0800000000000000
+      internalID: -5932521757380112861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 438
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4732b5a79063bf0800000000000000
+      internalID: -345077900327553872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 438
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd740af007c41f0800000000000000
+      internalID: -1059348599923024995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 438
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1593385cf17fb9190800000000000000
+      internalID: -7954492600990090927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 438
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de08d51e20f8b00800000000000000
+      internalID: 832887623046458718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 438
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e130ac7fd50510800000000000000
+      internalID: 1514862576036604164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a8062c43e323770800000000000000
+      internalID: 8588995835669285476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a24ab5a440c3a0800000000000000
+      internalID: -6647237571413630486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 354
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff542899fc1b83e30800000000000000
+      internalID: 4483528934239127039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 354
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3da0340a20a2c0800000000000000
+      internalID: -4422488636592932313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 354
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd954d85bcfba2e0800000000000000
+      internalID: -2113317743430885952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 354
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54138784b9e6face0800000000000000
+      internalID: -1391772146619371195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 354
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94efc91d97735600800000000000000
+      internalID: 455839503921177757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 354
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d2450d7b0c5640800000000000000
+      internalID: 5069939912099418766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 354
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1d5554f10aaf0a0800000000000000
+      internalID: -6846984227295735381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 354
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06241c49cd811a80800000000000000
+      internalID: -8497855126167083508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_22
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 354
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d319d2cb8a5f20800000000000000
+      internalID: 3412193336668443524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_23
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 354
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068096521b320a2d0800000000000000
+      internalID: -3269574085727156128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_24
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 354
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdcb94bc38cb4f00800000000000000
+      internalID: 1102194696875920891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_25
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 354
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b176ee22eb9e90800000000000000
+      internalID: -7017766903264202232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 270
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4317d436f5dba1d0800000000000000
+      internalID: -3338339445339909297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 270
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209159ee51d45c60800000000000000
+      internalID: 7806094259711479840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 270
+        width: 27
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb8c8e21eb2c1b0800000000000000
+      internalID: -5637734795090280616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 270
+        width: 26
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7687201ca45ef0800000000000000
+      internalID: -120282104649581735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 270
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474e997a9f1f4b20800000000000000
+      internalID: 3120747815116883779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 270
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602504062dc1297b0800000000000000
+      internalID: -5219077328285445626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 270
+        width: 26
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3639634c534dc0800000000000000
+      internalID: -3655977027896984753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 270
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721e6bad555efdb0800000000000000
+      internalID: -4756270295660227977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 186
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06415039557c1ac0800000000000000
+      internalID: -3883099752777038322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 186
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945cbfe9d46032770800000000000000
+      internalID: 8584712245147845961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 186
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5672ada27adb82f30800000000000000
+      internalID: 4551095949134014309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 187
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89bb409a9b180800800000000000000
+      internalID: 578742902776904075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 187
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c86f24fa9172c0800000000000000
+      internalID: -4435593784425134484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 187
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b5f02a4fe72d8e0800000000000000
+      internalID: -1670132922644997304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 187
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff71b975a2d4090800000000000000
+      internalID: -8048730403288645759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_41
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 187
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7183b32bb8a883e30800000000000000
+      internalID: 4483485761642641431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 187
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca334c48717e3200800000000000000
+      internalID: 161691398121405125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_43
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 182
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22de28d6bc518fe0800000000000000
+      internalID: -1188566886268349908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_44
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 181
+        width: 51
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97d74b6bfa92c70800000000000000
+      internalID: 8946875333995231716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_46
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 179
+        width: 48
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3a5b53358f5260800000000000000
+      internalID: 7088530794126916814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 186
+        width: 33
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb73a1447d3a42ad0800000000000000
+      internalID: -2727875329323812929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_48
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 186
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1400a33c4981f80800000000000000
+      internalID: -8135589160632172118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_49
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 186
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875d5e41ce7834010800000000000000
+      internalID: 1171929776079099256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 102
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a294cf928991d70800000000000000
+      internalID: 9014403435252492822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 103
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d8b4e3a8bd23d0800000000000000
+      internalID: -3229722343698279268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 103
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86094cb14ea49be50800000000000000
+      internalID: 6825569053835563112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51e86cb673b644d0800000000000000
+      internalID: -3150633566750580390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564934d5586b4c680800000000000000
+      internalID: -8735656693280304027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ea4620b40330b0800000000000000
+      internalID: -5750247144618794740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 18
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eade5d92f037e50800000000000000
+      internalID: 6805800134244150942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 16
+        width: 29
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7848c7d7b6da4f0800000000000000
+      internalID: -815877770780047399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_58
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 17
+        width: 30
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e86bdeac05d08e0800000000000000
+      internalID: -1725634249711251851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 17
+        width: 31
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d946b400502f4fa30800000000000000
+      internalID: 4248286451810919581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PME_60
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 17
+        width: 31
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776d819f089598d00800000000000000
+      internalID: 975409204772263543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

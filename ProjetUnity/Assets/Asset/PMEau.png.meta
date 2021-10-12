@@ -1,0 +1,1571 @@
+fileFormatVersion: 2
+guid: b1071b40fede7f944af4c6bdadd85504
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1031356235359764026
+    second: PMEau_0
+  - first:
+      213: -8725847827199723676
+    second: PMEau_1
+  - first:
+      213: -2523054470825239587
+    second: PMEau_2
+  - first:
+      213: 1604583325350750718
+    second: PMEau_3
+  - first:
+      213: -6208514111483250256
+    second: PMEau_4
+  - first:
+      213: 5932038552661751313
+    second: PMEau_5
+  - first:
+      213: -2529349835988485247
+    second: PMEau_6
+  - first:
+      213: 2831328146274467779
+    second: PMEau_7
+  - first:
+      213: -933322042304799732
+    second: PMEau_8
+  - first:
+      213: -98308766867207304
+    second: PMEau_9
+  - first:
+      213: -6191164221521527753
+    second: PMEau_10
+  - first:
+      213: -7614429647792795432
+    second: PMEau_11
+  - first:
+      213: 1313839772840142628
+    second: PMEau_12
+  - first:
+      213: 4438617545530433059
+    second: PMEau_13
+  - first:
+      213: 6630145252512638365
+    second: PMEau_14
+  - first:
+      213: -2542692601871500272
+    second: PMEau_15
+  - first:
+      213: -6845310596634462578
+    second: PMEau_16
+  - first:
+      213: -1259097558406824045
+    second: PMEau_17
+  - first:
+      213: -8327055561873571998
+    second: PMEau_18
+  - first:
+      213: -7799931784681682435
+    second: PMEau_19
+  - first:
+      213: -8218597763147215487
+    second: PMEau_20
+  - first:
+      213: -510077436152970450
+    second: PMEau_21
+  - first:
+      213: -8593039761456776049
+    second: PMEau_22
+  - first:
+      213: 1498833300672696122
+    second: PMEau_23
+  - first:
+      213: 6855527546946113840
+    second: PMEau_24
+  - first:
+      213: 2572081238190762525
+    second: PMEau_25
+  - first:
+      213: -1182175769612821900
+    second: PMEau_26
+  - first:
+      213: 4212780544142196549
+    second: PMEau_27
+  - first:
+      213: -6705515602283849624
+    second: PMEau_28
+  - first:
+      213: -4046712794046287282
+    second: PMEau_29
+  - first:
+      213: 5334554541893792920
+    second: PMEau_30
+  - first:
+      213: -814992874754556118
+    second: PMEau_31
+  - first:
+      213: -5769038318136210403
+    second: PMEau_32
+  - first:
+      213: 9049017492331294442
+    second: PMEau_33
+  - first:
+      213: -8736917823917919802
+    second: PMEau_34
+  - first:
+      213: -6945745744917436757
+    second: PMEau_35
+  - first:
+      213: 4089206607588305171
+    second: PMEau_36
+  - first:
+      213: -3724279296453601414
+    second: PMEau_37
+  - first:
+      213: -2123602818462690979
+    second: PMEau_38
+  - first:
+      213: -2637705872541528682
+    second: PMEau_39
+  - first:
+      213: 5772354965162240537
+    second: PMEau_40
+  - first:
+      213: -1732791632343542618
+    second: PMEau_41
+  - first:
+      213: -8608526229712552617
+    second: PMEau_42
+  - first:
+      213: 2389578633612161989
+    second: PMEau_43
+  - first:
+      213: -1947511133178559337
+    second: PMEau_44
+  - first:
+      213: 7255844612321617515
+    second: PMEau_45
+  - first:
+      213: -6778130635603467011
+    second: PMEau_46
+  - first:
+      213: 6693584801032462594
+    second: PMEau_47
+  - first:
+      213: -8249023607416396829
+    second: PMEau_48
+  - first:
+      213: -8261773266903709613
+    second: PMEau_49
+  - first:
+      213: 5840452642979131015
+    second: PMEau_50
+  - first:
+      213: -49122590088743480
+    second: PMEau_51
+  - first:
+      213: -6936290297927422214
+    second: PMEau_52
+  - first:
+      213: -3342917493316280844
+    second: PMEau_53
+  - first:
+      213: 8241974890458322483
+    second: PMEau_54
+  - first:
+      213: 7305170360992309845
+    second: PMEau_55
+  - first:
+      213: -1772931630835380510
+    second: PMEau_56
+  - first:
+      213: 2845129776872825223
+    second: PMEau_57
+  - first:
+      213: 3114936152771304822
+    second: PMEau_58
+  - first:
+      213: 2097596900870518092
+    second: PMEau_59
+  - first:
+      213: 2885807365593476867
+    second: PMEau_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PMEau_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 438
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eb08d180d105e00800000000000000
+      internalID: 1031356235359764026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 438
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46775a7f1af87e680800000000000000
+      internalID: -8725847827199723676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 27
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1085935f4cfcd0800000000000000
+      internalID: -2523054470825239587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 438
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9eb007800a44610800000000000000
+      internalID: 1604583325350750718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 438
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97a0a4f4de6d9a0800000000000000
+      internalID: -6208514111483250256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 438
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116735562a5d25250800000000000000
+      internalID: 5932038552661751313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 438
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb639a9b1f5ecd0800000000000000
+      internalID: -2529349835988485247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 438
+        width: 27
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3141b2f5ea4720800000000000000
+      internalID: 2831328146274467779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 438
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c51672c8c2c03f0800000000000000
+      internalID: -933322042304799732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 438
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc29882bcb2aef0800000000000000
+      internalID: -98308766867207304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 438
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf91651f0941aa0800000000000000
+      internalID: -6191164221521527753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 438
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d09b1c049c145690800000000000000
+      internalID: -7614429647792795432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427aae7ff42bb3210800000000000000
+      internalID: 1313839772840142628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 354
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e582f0423299d30800000000000000
+      internalID: 4438617545530433059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 354
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d952249aaf1030c50800000000000000
+      internalID: 6630145252512638365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 354
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7f64ec8a86bcd0800000000000000
+      internalID: -2542692601871500272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 354
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b266c7429001a0800000000000000
+      internalID: -6845310596634462578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 354
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f799d0179c68ee0800000000000000
+      internalID: -1259097558406824045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 354
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb599c51b507c80800000000000000
+      internalID: -8327055561873571998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 354
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df905cd1e5311c390800000000000000
+      internalID: -7799931784681682435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 354
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4acfd0eca1fd80800000000000000
+      internalID: -8218597763147215487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 354
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23092a3647dbe8f0800000000000000
+      internalID: -510077436152970450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_22
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 354
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cbf856dd36fb880800000000000000
+      internalID: -8593039761456776049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_23
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 354
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4f1022fcecc410800000000000000
+      internalID: 1498833300672696122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_24
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 354
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d0a75bf9b32f50800000000000000
+      internalID: 6855527546946113840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_25
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 354
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aaec7324ed1b320800000000000000
+      internalID: 2572081238190762525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 270
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5726a661189fe0800000000000000
+      internalID: -1182175769612821900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 270
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb54aa59dc67a30800000000000000
+      internalID: 4212780544142196549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 270
+        width: 27
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868180a461931f2a0800000000000000
+      internalID: -6705515602283849624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 270
+        width: 26
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b7da772037d7c0800000000000000
+      internalID: -4046712794046287282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 270
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b6889715280a40800000000000000
+      internalID: 5334554541893792920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 270
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb7c56c4090b4f0800000000000000
+      internalID: -814992874754556118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 270
+        width: 26
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ccfdf173240ffa0800000000000000
+      internalID: -5769038318136210403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 270
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee3bc2771949d70800000000000000
+      internalID: 9049017492331294442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 186
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f791878b30c680800000000000000
+      internalID: -8736917823917919802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 186
+        width: 25
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e30e8b01cb9f90800000000000000
+      internalID: -6945745744917436757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 186
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3192b7a7eb7cfb830800000000000000
+      internalID: 4089206607588305171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 185
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779a8246b3b05cc0800000000000000
+      internalID: -3724279296453601414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 185
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d515389ec727782e0800000000000000
+      internalID: -2123602818462690979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 184
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d433deb7cf46bd0800000000000000
+      internalID: -2637705872541528682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 183
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a25ffe1468b1050800000000000000
+      internalID: 5772354965162240537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 183
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d46ce033e3f7e0800000000000000
+      internalID: -1732791632343542618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 183
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db956010f588880800000000000000
+      internalID: -8608526229712552617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 182
+        width: 58
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f0535b1d792120800000000000000
+      internalID: 2389578633612161989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_44
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 181
+        width: 63
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79406c651fc09f4e0800000000000000
+      internalID: -1947511133178559337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_46
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 179
+        width: 63
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a9a7591e3fe1a0800000000000000
+      internalID: -6778130635603467011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_47
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 180
+        width: 35
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016e7399e364ec50800000000000000
+      internalID: 6693584801032462594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_48
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 181
+        width: 34
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36228fbb4958d80800000000000000
+      internalID: -8249023607416396829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_49
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 182
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c26b8cf8485d80800000000000000
+      internalID: -8261773266903709613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 102
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e23481cb47d0150800000000000000
+      internalID: 5840452642979131015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 103
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5305bb34b715ff0800000000000000
+      internalID: -49122590088743480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 103
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2c0d59b85dbf90800000000000000
+      internalID: -6936290297927422214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd917950429b91d0800000000000000
+      internalID: -3342917493316280844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361579be70616270800000000000000
+      internalID: 8241974890458322483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a8a62dbd216560800000000000000
+      internalID: 7305170360992309845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 18
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec00d33184567e0800000000000000
+      internalID: -1772931630835380510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_57
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 16
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781246a357eeb7720800000000000000
+      internalID: 2845129776872825223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_58
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 17
+        width: 31
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d94f36de97a3b20800000000000000
+      internalID: 3114936152771304822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_59
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 17
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45f85e84492c1d10800000000000000
+      internalID: 2097596900870518092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PMEau_60
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 17
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa76462827c0820800000000000000
+      internalID: 2885807365593476867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
